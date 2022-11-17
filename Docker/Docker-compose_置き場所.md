@@ -12,3 +12,6 @@ image: mysql # "mysql" の「イメージ」を使用
 environment: # コンテナーに「環境変数」を設定します  
 
 ↓ "MYSQL_ROOT_PASSWORD" という「環境変数」に "example" という値を設定します MYSQL_ROOT_PASSWORD: example
+
+
+- 置き場所はプロジェクトルートディレクトリ直下
