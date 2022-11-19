@@ -1,1 +1,1 @@
-# Nginx + php サンプル
+# Nginx + php + mysql サンプル
