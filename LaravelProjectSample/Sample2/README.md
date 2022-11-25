@@ -1,1 +1,2 @@
-# Nginx + php + mysql サンプル
+# Nginx + Laravel + mysql サンプル
+src下にLaravelをインストールで使用できる。
